@@ -1,0 +1,17 @@
+{
+  "name": "saysomething",
+  "version": "1.0.0",
+  "description": "I have been talking to the ships computer.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourav",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "say": "^0.16.0"
+  }
+}
